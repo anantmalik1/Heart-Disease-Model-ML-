@@ -120,3 +120,12 @@ The system can be expanded to include advanced algorithms and explainable AI too
 ---
 
 ## 📂 Project Structure
+
+Heart-Disease-Model-ML/
+│
+├── app.py                  # Main Streamlit application
+├── KNN_heart.pkl           # Trained KNN model file
+├── scaler.pkl              # StandardScaler object
+├── columns.pkl             # Feature column order file
+├── requirements.txt        # Required dependencies
+└── README.md               # Project documentation
